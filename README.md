@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Kaley (she/her)
-I'm currently learning to become a software developer with Tech Elevator Inc,
-I'm looking forward to learning everything I can and working on projects.
-You can reach me at my emali. kaleyhamilton6@gmail.com
+I'm completed my Java Full Stack Bootcamp to become a software developer with Tech Elevator Inc.
+I'm currently working on some side projects. 
+I'm looking forward to learning everything I can.
+You can reach me at my emali kaleyhamilton6@gmail.com
