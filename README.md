@@ -1,22 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU1ZjMzM3ljZ2p1YWp0eW1vOWx4dmh1NTNoeXJiNGhrcXJoOGNnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vqxviVfqGAa14SgeiC/giphy.gif" width="100" />
+</div>
 
-<!--
-**KaleyHamilton/KaleyHamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center" >
+  <a href="https://www.linkedin.com/in/kaleyhamilton/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Kaley (she/her)
-I've completed my Java Full Stack Bootcamp to become a software developer with Tech Elevator Inc.
-I'm currently working on some side projects. 
-I'm looking forward to learning everything I can.
-You can reach me at my email kaleyhamilton6@gmail.com
+</div>
