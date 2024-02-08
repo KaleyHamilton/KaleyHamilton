@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaleyHamilton&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=KaleyHamilton&style=flat-square&color=green" />
 </div>
 
 <h1 align="center">
@@ -17,3 +17,9 @@
   Hello Friends
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div id="aboutmeheader" align="center">
+  <img src="https://media.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.gif?cid=790b76118vvrui16luss355ftfo5kv3j8vad0h27stf4g5ie&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=ecf05e479fl9kpl4kk7fdvrsy2n8rzvw0dokry34276muffy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=" 100" />
+  <img src="https://media.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.gif?cid=790b76118vvrui16luss355ftfo5kv3j8vad0h27stf4g5ie&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+</div>
