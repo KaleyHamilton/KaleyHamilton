@@ -28,8 +28,8 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ohio.
-- :cherry_blossom: I’m a Junior Full Stack Software Developer.
+Hi, I'm Kaley! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :cherry_blossom: I’m a Junior Java Full Stack Software Developer.
 
 - :mushroom: Exploring new adventures and projects.
 
