@@ -35,7 +35,7 @@ Hi, I'm Kaley! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 - :sparkles: In my free time, I love to play board games and craft.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kaleyhamilton/)https://www.linkedin.com/in/kaleyhamilton/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([[your-linkedin-url](https://www.linkedin.com/in/kaleyhamilton/)](https://www.linkedin.com/in/kaleyhamilton/)https://www.linkedin.com/in/kaleyhamilton/)
 
 ---
 
